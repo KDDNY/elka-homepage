@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fa9b4b3-2af3-4908-8b8e-2f32164eb972" name="Default Changelist" comment="" />
+    <list default="true" id="6fa9b4b3-2af3-4908-8b8e-2f32164eb972" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elka.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zajt4auLjH4zGWmZA9tSsyHCOq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -46,7 +58,8 @@
       <updated>1585084311900</updated>
       <workItem from="1585084318277" duration="6188000" />
       <workItem from="1585129765314" duration="598000" />
-      <workItem from="1585217962676" duration="3316000" />
+      <workItem from="1585217962676" duration="5123000" />
+      <workItem from="1603576323689" duration="3000" />
     </task>
     <servers />
   </component>
@@ -54,22 +67,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2381" y="470" key="SettingsEditor" timestamp="1585084326924">
-      <screen x="1920" y="308" width="1920" height="1040" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1603576323207">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="2381" y="470" key="SettingsEditor/1920.308.1920.1040/0.0.1920.1040@1920.308.1920.1040" timestamp="1585084326924" />
-    <state x="2575" y="651" key="com.intellij.ide.util.TipDialog" timestamp="1585217964566">
-      <screen x="1920" y="308" width="1920" height="1040" />
-    </state>
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/1920.308.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585131202847" />
-    <state x="2575" y="651" key="com.intellij.ide.util.TipDialog/1920.308.1920.1040/0.0.1920.1040@1920.308.1920.1040" timestamp="1585217964566" />
-    <state x="2536" y="394" key="run.anything.popup" timestamp="1585220780964">
-      <screen x="1920" y="308" width="1920" height="1040" />
-    </state>
-    <state x="2536" y="394" key="run.anything.popup/1920.308.1920.1040/0.0.1920.1040@1920.308.1920.1040" timestamp="1585220780964" />
-    <state x="2543" y="533" width="672" height="678" key="search.everywhere.popup" timestamp="1585085551428">
-      <screen x="1920" y="308" width="1920" height="1040" />
-    </state>
-    <state x="2543" y="533" width="672" height="678" key="search.everywhere.popup/1920.308.1920.1040/0.0.1920.1040@1920.308.1920.1040" timestamp="1585085551428" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-297.1920.1040@0.0.1920.1040" timestamp="1603576323207" />
   </component>
 </project>

@@ -1,30 +1,28 @@
 *{
-    margin: 0;
-    padding: 0;
-    font-family: Lato;
-    box-sizing: border-box;
+
+    font-family: 'Lato', sans-serif;
     color: whitesmoke;
 }
-
 
 body{
     background-color: #191d21;
 }
 
 header{
-    font-size: 43px;
+    margin-top: 20px;
+    font-size: 33px;
     text-align: center;
 }
 
-p.top{
+#top_img{
     display: inline-block;
-    text-align: center;
 }
 
-p.title{
-    margin-bottom: 20px;
-    margin-right: 170px;
+#top_title{
+    vertical-align:top;
+    display: inline-block;
 }
+
 
 #wrapper{
     max-width: 1000px;
@@ -33,6 +31,7 @@ p.title{
 }
 
 nav {
+    margin-top: 5px;
     background-color: rgb(100,124,100);
     text-align: center;
 }
@@ -51,27 +50,31 @@ a.first{
 }
 
 article {
-
     padding-top: 30px;
-    padding-bottom: 100px;
+    padding-bottom: 30px;
     background-color: #191d21;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
 }
 
 
 article h1{
     font-size: 30px;
     text-align: center;
-    margin: 0 30% 20px;
+    margin: 0 15% 20px;
     padding-bottom: 15px;
     border-bottom: 2px solid rgb(100,124,100);
 }
 
-img.elka{
-    width: 40%;
-    height: auto;
+#photo{
+    display: inline-block;
 }
+
+#about{
+    vertical-align:top;
+    display: inline-block;
+}
+
+
 
 img.left{
     float: left;
@@ -88,11 +91,13 @@ article p{
 }
 
 footer {
+    width: 50%;
     border-top: 2px solid rgb(100,124,100);
     height: 40px;
     font-size: 18px;
     line-height: 40px;
     text-align: center;
     background-color: #2F3336;
-    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
